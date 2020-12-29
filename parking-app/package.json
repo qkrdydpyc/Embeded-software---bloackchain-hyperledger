@@ -8,7 +8,7 @@
 				"start-dev": "PORT=8001 node server.js & browser-sync start --port 18000 --no-open  --proxy 'localhost:8001' --serveStatic './' --files './'"
 		},
 		"dependencies": {
-				"angular": "^1.6.9",
+				"angular": "^1.8.0",
 				"angular-route": "^1.6.9",
 				"bootstrap": "^3.3.7",
 				"jquery": "^3.2.0",
